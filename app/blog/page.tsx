@@ -6,16 +6,7 @@ import { IoIosArrowForward } from "react-icons/io";
 import { FaCalendar } from "react-icons/fa";
 import { HiTag } from "react-icons/hi";
 import { FiSearch } from "react-icons/fi";
-
-
-
-
-import {
-  FaUser,
-  FaCalendarAlt,
-  FaMapMarkerAlt,
-  FaSearch,
-} from "react-icons/fa";
+import {FaUser} from "react-icons/fa";
 
 function page() {
   return (
